@@ -1,2 +1,2 @@
-# dragnet
-Docker image for dragnet from alpine
+# Dragnet Alpine Docker Image
+Dragnet web content extraction library from alpine python3 image
